@@ -846,3 +846,9 @@ Toonth电影,http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 男亲女爱,http://159.75.85.63:35455/yy/1382736715
 溏心风暴之家好月圆,http://159.75.85.63:35455/yy/1354888747
 名媛望族,http://159.75.85.63:35455/yy/1354932431
+
+其它,#genre#
+文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
+武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
+文物宝库,http://117.72.68.25:9930/hn.php?id=wwbk
+武术世界,http://117.72.68.25:9930/hn.php?id=wspd
