@@ -457,6 +457,13 @@ Toonth电影,http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 斗鱼电影169,http://159.75.85.63:35455/douyu/7528160
 
 电视剧,#genre#
+芒果1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+芒果2,http://zby.xjqxz.top/gzwxj/live.m3u8
+芒果3,http://zby.xjqxz.top/gzdsj1/live.m3u8
+芒果4,http://zby.xjqxz.top/gzdsj3/live.m3u8
+芒果5,http://zby.xjqxz.top/gzdsj4/live.m3u8
+芒果6,http://zby.xjqxz.top/kzzypd/live.m3u8
+芒果7,http://zby.xjqxz.top/dzzypd3/live.m3u8
 电视剧场一,http://120.77.28.4:8648/huya.php?id=29465862
 电视剧场二,http://120.77.28.4:8648/huya.php?id=11336591
 电视剧场三,http://120.77.28.4:8648/huya.php?id=21059563
@@ -468,6 +475,8 @@ Toonth电影,http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 电视剧场九,http://120.77.28.4:8648/huya.php?id=21059594
 电视剧场十,http://120.77.28.4:8648/huya.php?id=11336592
 电视剧场十一,http://120.77.28.4:8648/huya.php?id=11602088
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 亮剑,http://120.77.28.4:8648/huya.php?id=30080238 
 活佛济公,http://120.77.28.4:8648/huya.php?id=11342400
 梦华录,http://120.77.28.4:8648/huya.php?id=11336590 
