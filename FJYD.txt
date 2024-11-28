@@ -566,6 +566,8 @@ TVBS HD,http://211.72.65.236:8575/.m3u8
 传奇英雄,http://120.77.28.4:8648/yy.php?id=1382735578
 
 其它,#genre#
+魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 CCTV央视台球,http://www.akw323.com:9527/udp/238.255.2.224:5999
 CCTV央视台球,http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
 CCTV央视台球,http://58.17.48.228:808/hls/94/index.m3u8
