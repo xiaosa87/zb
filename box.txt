@@ -18,8 +18,9 @@ CCTV16,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
 CCTV17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 CCTV5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 CCTV16 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
-凤凰卫视中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
+凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
+凤凰资讯,http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
 
 北京卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
 天津卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227205/index.m3u8
@@ -354,19 +355,6 @@ DW NEWS,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 
 电影,#genre#
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://171.88.145.30:4022/udp/239.93.42.5:5140
-CHC家庭影院,http://171.88.145.30:4022/udp/239.93.42.6:5140
-CHC动作电影,http://171.88.145.30:4022/udp/239.93.42.7:5140
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
-CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
-CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 成龙,http://lxajh.top/tv/douyu.php?id=3379942
 周星驰,http://lxajh.top/tv/douyu.php?id=122402
 林正英,http://lxajh.top/tv/douyu.php?id=7356023
@@ -441,19 +429,50 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 魅力潇湘,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000006197
 
 其它,#genre#
-梨园频道,http://www.huakangyaoye.cn:8800/udp/225.1.2.100:10594
-武术世界,http://www.huakangyaoye.cn:8800/udp/225.1.2.102:10606
-CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-5+体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-五星体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
-魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
-劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000029972
-Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+CHC 动作电影,http://122.141.60.245:9901/tsfile/live/1014_1.m3u8
+CHC 高清电影,http://122.141.60.245:9901/tsfile/live/1015_1.m3u8
+CHC 家庭影院,http://122.141.60.245:9901/tsfile/live/1016_1.m3u8
+乐游,http://122.141.60.245:9901/tsfile/live/1017_1.m3u8
+法制天地,http://122.141.60.245:9901/tsfile/live/1024_1.m3u8
+金色学堂,http://122.141.60.245:9901/tsfile/live/1023_1.m3u8
+生活时尚,http://122.141.60.245:9901/tsfile/live/1021_1.m3u8
+都市时尚,http://122.141.60.245:9901/tsfile/live/1005_1.m3u8
+动漫秀场,http://122.141.60.245:9901/tsfile/live/1020_1.m3u8
+游戏风云,http://122.141.60.245:9901/tsfile/live/1044_1.m3u8
+快乐垂钓,http://122.141.60.245:9901/tsfile/live/1054_1.m3u8
+茶频道,http://122.141.60.245:9901/tsfile/live/1056_1.m3u8
+第一剧场,http://122.141.60.245:9901/tsfile/live/1025_1.m3u8
+怀旧剧场,http://122.141.60.245:9901/tsfile/live/1026_1.m3u8
+电视指南,http://122.141.60.245:9901/tsfile/live/1027_1.m3u8
+央视文化精品,http://122.141.60.245:9901/tsfile/live/1028_1.m3u8
+地理世界,http://122.141.60.245:9901/tsfile/live/1029_1.m3u8
+兵器科技,http://122.141.60.245:9901/tsfile/live/1030_1.m3u8
+女性时尚,http://122.141.60.245:9901/tsfile/live/1031_1.m3u8
+风云音乐,http://122.141.60.245:9901/tsfile/live/1032_1.m3u8
+风云足球,http://122.141.60.245:9901/tsfile/live/1033_1.m3u8
+风云剧场,http://122.141.60.245:9901/tsfile/live/1034_1.m3u8
+央视台球,http://122.141.60.245:9901/tsfile/live/1035_1.m3u8
+百姓健康,http://122.141.60.245:9901/tsfile/live/1036_1.m3u8
+高尔夫,http://122.141.60.245:9901/tsfile/live/1037_1.m3u8
+中国交通,http://122.141.60.245:9901/tsfile/live/1038_1.m3u8
+上海纪实高清,http://122.141.60.245:9901/tsfile/live/1040_1.m3u8
+金鹰纪实高清,http://122.141.60.245:9901/tsfile/live/1041_1.m3u8
+BTV高清,http://122.141.60.245:9901/tsfile/live/1000_1.m3u8
+卡酷动画,http://122.141.60.245:9901/tsfile/live/1043_1.m3u8
+哈哈炫动,http://122.141.60.245:9901/tsfile/live/1045_1.m3u8
+嘉佳卡通,http://122.141.60.245:9901/tsfile/live/1046_1.m3u8
+老故事,http://122.141.60.245:9901/tsfile/live/1047_1.m3u8
+国学频道,http://122.141.60.245:9901/tsfile/live/1048_1.m3u8
+睛彩竞技,http://122.141.60.245:9901/tsfile/live/1049_1.m3u8
+睛彩篮球,http://122.141.60.245:9901/tsfile/live/1050_1.m3u8
+睛彩羽毛球,http://122.141.60.245:9901/tsfile/live/1065_1.m3u8
+睛彩广场舞,http://122.141.60.245:9901/tsfile/live/1059_1.m3u8
+环球奇观,http://122.141.60.245:9901/tsfile/live/1018_1.m3u8
+武术世界,http://122.141.60.245:9901/tsfile/live/1022_1.m3u8
+梨园高清,http://122.141.60.245:9901/tsfile/live/1051_1.m3u8
+文物宝库,http://122.141.60.245:9901/tsfile/live/1055_1.m3u8
+汽摩频道,http://122.141.60.245:9901/tsfile/live/1001_1.m3u8
+发现之旅,http://122.141.60.245:9901/tsfile/live/1057_1.m3u8
 
 测试+_9527,#genre#
 🔞9+9经典,
