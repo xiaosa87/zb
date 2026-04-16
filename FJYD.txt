@@ -11,7 +11,7 @@ CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
 CCTV11,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
 CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
-CCTV13,rtsp://183.252.170.199:554/PLTV/88888888/224/3221227446/112492920.smil
+CCTV13,rtsp://112.50.243.12:554/PLTV/88888888/224/3221227381/96272107.smil
 CCTV14,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
 CCTV15,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV16,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
